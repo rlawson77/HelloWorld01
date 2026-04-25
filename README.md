@@ -6,11 +6,14 @@ Prints "Salutations, Earth!" to the console. My fun version of Hello World!
 
 Steps to build and/or run the software:
 
-1. Compile, build, and run. Nothing complicated.
+1. Compile.
+2. Build.
+3. Run. Nothing complicated.
 
 Instructions for using the software:
 
-1. Run it, then read the printed line of text.
+1. Run it.
+2. Read the printed line of text.
 
 ## Development Environment
 
